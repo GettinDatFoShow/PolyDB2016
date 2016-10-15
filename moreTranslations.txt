@@ -1,21 +1,21 @@
-english, spanish, french, german,
-Hello, Hola, Bonjour, Hallo,
-Nice, Bonito,  agreable, nett, 
-How, Como, Comment, Wie, 
-Thank you, Gracias, Mercie, Danke, 
-Yes, si, Oui, Ja, 
-Goodbye, Adios, Au Revoir, Auf Wiedersehen, 
-No, No, Non, Nein, 
-week, semana, semaine, Woche, 
-year, ano, an, Jahr, 
-today, hoy, aujourd'hui, heute,
-tomorrow, manana, demain, Morgen, 
-yesterday, ayer, hier, gestern, 
-water, agua, eau, wasser,
-go, ir, aller, gehen, 
-come, ven, viens, kommen,
-laugh, risa, rire, lachen, 
-see, ver, voir, sehen,
-good, bueno, bien, gut, 
-beautiful, hermosa, beau, schon,
-ugly, feo, laid, hasslich, 
+english, spanish, french, german,Hindi
+Hello, Hola, Bonjour, Hallo, नमस्ते
+Nice, Bonito,  agreable, nett, अच्छा
+How, Como, Comment, Wie, किस तरह
+Thank you, Gracias, Mercie, Danke, धन्यवाद
+Yes, si, Oui, Ja, हाँ
+Goodbye, Adios, Au Revoir, Auf Wiedersehen, अलविदा
+No, No, Non, Nein, नहीं
+week, semana, semaine, Woche, सप्ताह
+year, ano, an, Jahr, साल
+today, hoy, aujourd'hui, heute, आज
+tomorrow, manana, demain, Morgen, कल
+yesterday, ayer, hier, gestern, बिता कल
+water, agua, eau, wasser, पानी
+go, ir, aller, gehen, चले जाओ 
+come, ven, viens, kommen, आइए
+laugh, risa, rire, lachen, हसना
+see, ver, voir, sehen, देख
+good, bueno, bien, gut, अच्छा 
+beautiful, hermosa, beau, schon, सुंदर
+ugly, feo, laid, hasslich, कुरूप
