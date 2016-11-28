@@ -1,5 +1,5 @@
 [ODBC]
-DRIVER=Microsoft Access Driver (*.mdb)
+DRIVER=Driver do Microsoft Access (*.mdb)
 UID=admin
 UserCommitSync=Yes
 Threads=3

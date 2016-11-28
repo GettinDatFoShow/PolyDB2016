@@ -1,0 +1,26 @@
+1,"??","Nihao","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+2,"??
+??","Bùcuò","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+3,"???","Zenme yàng","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=???"
+4,"??","Xièxiè","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+5,"??","Shì de","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+6,"??","Zàijiàn","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+7,"?","Bù","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+8,"?","zhou","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+9,"?","nián","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+10,"??","jintian","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+11,"??","míngtian","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+12,"??","zuótian","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+13,"?","shui","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+14,"?","qù","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+15,"?","lái","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+16,"?","xiào","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+17,"?","kàn","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+18,"?","hao","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+19,"??","piàoliang","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+20,"?","chou","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=?"
+21,"??
+??
+??
+??","Xúnwèn","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=??"
+23,"???","zhùrù","#https://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=???"
