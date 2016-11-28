@@ -1,24 +1,24 @@
-1,"Hello","Hola","Bonjour","Hallo","??????","Interjection","Greeting","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+hello#"
-2,"Nice","Bonito","agreable","nett","?????","Adjective","Description","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+nice#"
-3,"How","Como","Comment","Wie","??? ???","Adverb","Questioning","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+how#"
-4,"Thank you","Gracias","Mercie","Danke","???????","Adjective","Greeting","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+thank+you#"
-5,"Yes","si","Oui","Ja","???","Adverb","Answering","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+yes#"
-6,"Goodbye","Adios","Au Revoir","Auf Wiedersehen","??????","Interjection","Greeting","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+goodbye#"
-7,"No","No","Non","Nein","????","Adverb","Answering","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+no#"
-8,"week","semana","semaine","Woche","??????","Noun","Time/days","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+week#"
-9,"year","ano","an","Jahr","???","Noun","Time/days","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+year#"
-10,"today","hoy","aujourd'hui","heute","??","Noun","Time/days","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+today#"
-11,"tomorrow","manana","demain","Morgen","??","Noun","Time/days","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+tomorrow#"
-12,"yesterday","ayer","hier","gestern","???? ??","Noun","Time/days","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+yesterday#"
-13,"water","agua","eau","wasser","????","Noun","Liquid","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+water#"
-14,"go","ir","aller","gehen","??? ???","Verb","Action","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+go#"
-15,"come","ven","viens","kommen","???","Verb","Action","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+come#"
-16,"laugh","risa","rire","lachen","????","Verb","Emotion","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+laugh#"
-17,"see","ver","voir","sehen","???","Verb","Action","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+see#"
-18,"good","bueno","bien","gut","?????","Adjective","Description","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+good#"
-19,"beautiful","hermosa","beau","schon","?????","Adjective","Description","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+beautiful#"
-20,"ugly","feo","laid","hasslich","?????","Adjective","Description","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+ugly#"
-21,"Query","consulta","question","Abfrage","????","Noun","Questioning","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+query#"
-22,"Question","pregunta","question","Frage","????","Verb","Questioning","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+question#"
-23,"pour","verter","verser","gießen","????","Verb","Description","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+empty#"
-25,"empty","vacío","vide","leer","????","adjective","Action","#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+pour#"
+1,Hello,Hola,Bonjour,Hallo,??????,Interjection,Greeting,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+hello#
+2,Nice,Bonito,agreable,nett,?????,Adjective,Description,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+nice#
+3,How,Como,Comment,Wie,??? ???,Adverb,Questioning,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+how#
+4,Thank you,Gracias,Mercie,Danke,???????,Adjective,Greeting,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+thank+you#
+5,Yes,si,Oui,Ja,???,Adverb,Answering,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+yes#
+6,Goodbye,Adios,Au Revoir,Auf Wiedersehen,??????,Interjection,Greeting,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+goodbye#
+7,No,No,Non,Nein,????,Adverb,Answering,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+no#
+8,week,semana,semaine,Woche,??????,Noun,Time/days,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+week#
+9,year,ano,an,Jahr,???,Noun,Time/days,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+year#
+10,today,hoy,aujourd'hui,heute,??,Noun,Time/days,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+today#
+11,tomorrow,manana,demain,Morgen,??,Noun,Time/days,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+tomorrow#
+12,yesterday,ayer,hier,gestern,???? ??,Noun,Time/days,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+yesterday#
+13,water,agua,eau,wasser,????,Noun,Liquid,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+water#
+14,go,ir,aller,gehen,??? ???,Verb,Action,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+go#
+15,come,ven,viens,kommen,???,Verb,Action,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+come#
+16,laugh,risa,rire,lachen,????,Verb,Emotion,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+laugh#
+17,see,ver,voir,sehen,???,Verb,Action,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+see#
+18,good,bueno,bien,gut,?????,Adjective,Description,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+good#
+19,beautiful,hermosa,beau,schon,?????,Adjective,Description,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+beautiful#
+20,ugly,feo,laid,hasslich,?????,Adjective,Description,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+ugly#
+21,Query,consulta,question,Abfrage,????,Noun,Questioning,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+query#
+22,Question,pregunta,question,Frage,????,Verb,Questioning,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+question#
+23,pour,verter,verser,gießen,????,Verb,Description,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+empty#
+25,empty,vacío,vide,leer,????,adjective,Action,#https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+pour#
