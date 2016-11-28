@@ -1,0 +1,68 @@
+CREATE TABLE Chinese_to_Trans
+(
+	Chinese_ID           COUNTER NOT NULL,
+	Eng_word_ID          INTEGER NOT NULL,
+	Priority             INTEGER NULL,
+	English_ID           COUNTER NOT NULL
+);
+
+ALTER TABLE Chinese_to_Trans
+ADD CONSTRAINT PrimaryKey PRIMARY KEY (Chinese_ID,Eng_word_ID,English_ID);
+
+CREATE INDEX Chinese_ID ON Chinese_to_Trans
+(
+	Chinese_ID ASC
+);
+
+CREATE INDEX ChineseChinese_to_Eng ON Chinese_to_Trans
+(
+	Chinese_ID ASC
+);
+
+CREATE INDEX Eng_word_ID ON Chinese_to_Trans
+(
+	Eng_word_ID ASC
+);
+
+CREATE INDEX MoreTranslationsChinese_to_Eng ON Chinese_to_Trans
+(
+	Eng_word_ID ASC
+);
+
+CREATE TABLE ChineseInfo
+(
+	Chinese_ID           COUNTER NOT NULL,
+	Chinese_char         VARCHAR(255) NULL,
+	Pinyin               VARCHAR(255) NULL,
+	webInfo              LONGCHAR(1073741823) NULL
+);
+
+ALTER TABLE ChineseInfo
+ADD CONSTRAINT ID PRIMARY KEY (Chinese_ID);
+
+CREATE INDEX ChineseCC ON ChineseInfo
+(
+	Chinese_char ASC
+);
+
+CREATE TABLE EnglishInfo
+(
+	English_ID           COUNTER NOT NULL,
+	english              VARCHAR(255) NULL,
+	spanish              VARCHAR(255) NULL,
+	french               VARCHAR(255) NULL,
+	german               VARCHAR(255) NULL,
+	Hindi                VARCHAR(255) NULL,
+	Word_type            VARCHAR(255) NULL,
+	Category             VARCHAR(255) NULL,
+	link_definition      LONGCHAR(1073741823) NULL
+);
+
+ALTER TABLE EnglishInfo
+ADD CONSTRAINT ID PRIMARY KEY (English_ID);
+
+ALTER TABLE Chinese_to_Trans
+ADD CONSTRAINT R_1 FOREIGN KEY (Chinese_ID) REFERENCES ChineseInfo (Chinese_ID);
+
+ALTER TABLE Chinese_to_Trans
+ADD CONSTRAINT R_2 FOREIGN KEY (English_ID) REFERENCES EnglishInfo (English_ID);
